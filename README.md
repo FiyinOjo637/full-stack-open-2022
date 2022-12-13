@@ -23,3 +23,10 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 - Getting data from server
 - Altering data in server
 - Adding style to React apps
+
+### [Part 3 - Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3)
+
+- Node.js and Express
+- Deploying app to internet
+- Saving data to MongoDB
+- Validation and ESLint
