@@ -37,3 +37,17 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 - Testing and backend
 - User administration
 - Token administration
+
+### [Part 5 - Testing React apps](https://fullstackopen.com/en/part5)
+
+- Login in frontend
+- props.children and proptypes
+- Testing React apps
+- End to end testing
+
+### [Part 6 - State management with Redux](https://fullstackopen.com/en/part6)
+
+- Flux-architecture and Redux
+- Many reducers
+- Communicating with server in a redux application
+- Connect
