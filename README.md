@@ -60,3 +60,11 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 - Webpack
 - Class components, Miscellaneous
 - Exercises - extending the bloglist
+
+## Course Certificates
+
+### Full Stack Certificate - Parts 0-7
+
+<p align="center">
+  <img height="60%" width="100%" src="./certificates/Certificate.png" alt="FullStack Certificate">
+</p>
