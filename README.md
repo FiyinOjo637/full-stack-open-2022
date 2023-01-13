@@ -78,5 +78,9 @@ e. [Fragments and subscriptions](https://fullstackopen.com/en/part8/fragments_an
 <p align="center">
   <img height="60%" width="100%" src="./certificates/Certificate.png" alt="FullStack Certificate">
 </p>
+<p align="center">
+  <img height="60%" width="100%" src="./certificates/certificate-graphql.png" alt="FullStack Certificate">
+</p>
+
 
 
