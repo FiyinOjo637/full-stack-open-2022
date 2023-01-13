@@ -51,3 +51,20 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 - Many reducers
 - Communicating with server in a redux application
 - Connect
+
+### [Part 7 - React router, custom hooks, styling app with CSS and webpack](https://fullstackopen.com/en/part7)
+
+- React-router
+- Custom hooks
+- More about styles
+- Webpack
+- Class components, Miscellaneous
+- Exercises - extending the bloglist
+
+## Course Certificates
+
+### Full Stack Certificate - Parts 0-7
+
+<p align="center">
+  <img height="60%" width="100%" src="./certificates/Certificate.png" alt="FullStack Certificate">
+</p>
