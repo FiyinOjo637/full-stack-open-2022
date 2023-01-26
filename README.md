@@ -159,6 +159,9 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 <p align="center">
   <img height="60%" width="100%" src="./certificates/certificate-graphql.png" alt="FullStack Certificate">
 </p>
+<p align="center">
+  <img height="60%" width="100%" src="./certificates/certificate-typescript" alt="FullStack Certificate">
+</p>
 
 
 
