@@ -78,6 +78,13 @@ e. [Fragments and subscriptions](https://fullstackopen.com/en/part8/fragments_an
 . Typing the express app
 . React with types
 
+### [Part 10 - React Native](https://fullstackopen.com/en/part10)
+
+. Introduction to React Native
+. React Native basics
+. Communicating with server
+. Testing and extending our application
+
 ## Course Certificates
 
 ### Full Stack Certificate - Parts 0-7
@@ -91,6 +98,8 @@ e. [Fragments and subscriptions](https://fullstackopen.com/en/part8/fragments_an
 <p align="center">
   <img height="60%" width="100%" src="./certificates/certificate-typescript.png" alt="FullStack Certificate">
 </p>
-
+<p align="center">
+  <img height="60%" width="100%" src="./certificates/certificate-reactnative.png" alt="FullStack Certificate">
+</p>
 
 
